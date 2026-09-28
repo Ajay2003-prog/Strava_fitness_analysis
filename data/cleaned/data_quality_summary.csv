@@ -1,0 +1,9 @@
+file,rows,columns,missing_values,duplicates
+daily_activity_clean.csv,940,15,0,0
+daily_calories_clean.csv,940,3,0,0
+daily_intensities_clean.csv,940,10,0,0
+daily_steps_clean.csv,940,3,0,0
+hourly_intensities_clean.csv,22099,4,0,0
+hourly_steps_clean.csv,22099,3,0,0
+sleep_clean.csv,410,5,0,0
+weight_clean.csv,67,8,65,0
